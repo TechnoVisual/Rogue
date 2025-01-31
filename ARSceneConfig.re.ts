@@ -6,8 +6,11 @@
   Use and abuse as you see fit. 
   Based on the Three.js example at: https://github.com/mrdoob/three.js/blob/master/examples/webxr_ar_hittest.html
   
-  Check out my stuff at X @MindExplorers and @ArcVenture1
-  https://arcventure.online || https://education.technovisual.co.uk/
+  Check out my stuff at X @MindExplorers , @ArcVenture1 and TVisualSpace
+  https://arcventure.online || https://education.technovisual.co.uk/ 
+
+  and on Bluesky at:
+  https://bsky.app/profile/markyv.bsky.social and https://bsky.app/profile/technovisualspace.bsky.social
   
   Mobile device hit test requires the view to be moved
   backwards and forwards to get depth info.
